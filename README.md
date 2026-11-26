@@ -1,6 +1,8 @@
 # Onion Price Retraining Benchmark (Indian Mandis)
 
-`Python 3.11+` · `scikit-learn 1.6+` · `Data: CC BY 4.0` · `Code License: MIT`
+[![Python](https://img.shields.io/badge/Python-3.10+-3776ab?style=flat&logo=python&logoColor=white)](https://python.org)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
 A data-validated MLOps benchmark comparing calendar-based and drift-triggered retraining policies for 4-week-ahead wholesale onion price forecasting across 223 Indian agricultural markets (*mandis*) over 362 evaluation weeks under realistic 4-week label latency.
 
