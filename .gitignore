@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+manuscript/
+Paper3_LaTeX_Source/
+Paper3_LaTeX_Source.zip
+review/
+_to_delete/
+P3_Response_to_Reviewers.md
+P3_Conditions_Response.md
+README.md
+data/onion_2014_2024.parquet
+*.tex
+*.bib

@@ -1,0 +1,6 @@
+policy,episodes,followed_by_retrain,km_median_smallest,km_median_midpoint,within_8
+psi,12,12,1.0,1.0,12
+skill,12,12,1.0,1.5,9
+adwin,12,0,,,0
+pagehinkley,12,11,17.0,17.5,5
+every13,12,12,5.0,5.0,11

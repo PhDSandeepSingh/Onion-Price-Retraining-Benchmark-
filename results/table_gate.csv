@@ -1,0 +1,9 @@
+rule,check,rows,share
+G1,"duplicate key (market, variety, date)",8,8.2874587957908e-06
+G2,modal price <= 0,442,0.0004578820984674
+G3,min price > max price,367,0.0003801871722569
+G4,"modal price outside [min, max]",22298,0.0230992195285679
+G5,"modal price > 20,000 Rs/quintal",596,0.0006174156802864
+G6a,lag_1 taken from the same date,49209,0.05102042932267215
+G6b,lag_1 not from the previous calendar day,303115,0.3142729466996234
+G6c,lag_7 not from 7 calendar days earlier,792317,0.825422208516991
